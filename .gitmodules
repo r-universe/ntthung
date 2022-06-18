@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ldsr"]
+	path = ldsr
+	url = https://github.com/ntthung/ldsr
+	shallow = true
+	registered = true
+[submodule "mbr"]
+	path = mbr
+	url = https://github.com/ntthung/mbr
+	shallow = true
+	registered = true
